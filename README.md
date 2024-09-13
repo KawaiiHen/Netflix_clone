@@ -1,4 +1,4 @@
-<h1 align="center">MERN Netflix Clone 🎬</h1>
+<h1 align="center">MERN Netflix Clone </h1>
 
 ### Setup .env file
 ```bash
