@@ -1,7 +1,10 @@
 <h1 align="center">MERN Netflix Clone </h1>
 
+### Deployment Website
+https://netflix-clone-6krs.onrender.com
+
 ### Guided by this YouTube tutorial  
-This project was built with guidance from [this YouTube tutorial](https://www.youtube.com/watch?v=gRroBZczKAU&t=18423s).  
+This project was built with guidance from [this YouTube tutorial](https://youtu.be/gRroBZczKAU?si=MJH8_nrevvBbp2JE).  
 A big thanks to the creator for the detailed walkthrough!  
 
 ### Setup .env file
