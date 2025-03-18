@@ -5,20 +5,20 @@ const Footer = () => {
 				<p className='text-balance text-center text-sm leading-loose text-muted-foreground md:text-left'>
 					Built by{" "}
 					<a
-						href='https://github.com/burakorkmez'
+						href='https://github.com/KawaiiHen/Netflix_clone'
 						target='_blank'
 						className='font-medium underline underline-offset-4'
 					>
-						you
+						Kawaii Hen
 					</a>
-					. The source code is available on{" "}
+					. Guided by{" "}
 					<a
-						href='https://github.com/burakorkmez'
+						href='https://www.youtube.com/@asaprogrammer_'
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
 					>
-						GitHub
+						Asaprogrammer Youtube tutorials
 					</a>
 					.
 				</p>
