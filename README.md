@@ -1,5 +1,9 @@
 <h1 align="center">MERN Netflix Clone </h1>
 
+### Guided by this YouTube tutorial  
+This project was built with guidance from [this YouTube tutorial](https://www.youtube.com/watch?v=gRroBZczKAU&t=18423s).  
+A big thanks to the creator for the detailed walkthrough!  
+
 ### Setup .env file
 ```bash
 PORT=5000
@@ -21,5 +25,3 @@ npm run build
 ```shell
 npm run start
 ```
-testuser123@gmail.com
-testuser1!@
